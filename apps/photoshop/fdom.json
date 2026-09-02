@@ -1,0 +1,690 @@
+{
+  "app_name": "photoshop",
+  "loaded": false,
+  "creation_timestamp": "2025-06-21T18:10:45.937307",
+  "navigation_tree": {},
+  "states": {
+    "root": {
+      "id": "root",
+      "parent": null,
+      "trigger_node": null,
+      "trigger_element": "initial_state",
+      "breadcrumb": "root",
+      "image": "D:\\project\\mapper\\code\\apps\\photoshop\\screenshots\\S001.png",
+      "creation_timestamp": "2025-06-21T18:11:34.317296",
+      "analysis_time": 0,
+      "total_elements": 33,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            7,
+            10,
+            36,
+            35
+          ],
+          "g_icon_name": "Ps",
+          "g_brief": "Opens the Photoshop application",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_2": {
+          "bbox": [
+            40,
+            11,
+            82,
+            37
+          ],
+          "g_icon_name": "File",
+          "g_brief": "Opens the file menu with document operations",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_3": {
+          "bbox": [
+            75,
+            11,
+            124,
+            37
+          ],
+          "g_icon_name": "Edit",
+          "g_brief": "Opens the edit menu with editing functions",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_4": {
+          "bbox": [
+            117,
+            13,
+            174,
+            38
+          ],
+          "g_icon_name": "Image",
+          "g_brief": "Opens the image menu with image adjustment options",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_5": {
+          "bbox": [
+            175,
+            13,
+            224,
+            38
+          ],
+          "g_icon_name": "Layer",
+          "g_brief": "Opens the layer menu with layer manipulation options",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_6": {
+          "bbox": [
+            226,
+            13,
+            272,
+            38
+          ],
+          "g_icon_name": "Type",
+          "g_brief": "Opens the type menu with text editing options",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_7": {
+          "bbox": [
+            272,
+            11,
+            378,
+            37
+          ],
+          "g_icon_name": "Select Filter",
+          "g_brief": "Opens the select filter menu",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H0_8": {
+          "bbox": [
+            372,
+            11,
+            628,
+            38
+          ],
+          "g_icon_name": "3D View Plugins Window Help",
+          "g_brief": "Opens different menus",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H1_1": {
+          "bbox": [
+            25,
+            54,
+            83,
+            116
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "status": "pending"
+        },
+        "H2_1": {
+          "bbox": [
+            49,
+            228,
+            101,
+            256
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H2",
+          "status": "pending"
+        },
+        "H3_1": {
+          "bbox": [
+            330,
+            11,
+            367,
+            35
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H3_2": {
+          "bbox": [
+            379,
+            11,
+            399,
+            35
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H4_1": {
+          "bbox": [
+            385,
+            350,
+            428,
+            375
+          ],
+          "g_icon_name": "Sort",
+          "g_brief": "Opens options to sort files",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "status": "pending"
+        },
+        "H4_2": {
+          "bbox": [
+            445,
+            342,
+            532,
+            377
+          ],
+          "g_icon_name": "Recent",
+          "g_brief": "Shows a list of recently opened files",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "status": "pending"
+        },
+        "H5_1": {
+          "bbox": [
+            388,
+            290,
+            462,
+            317
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H5",
+          "status": "pending"
+        },
+        "H6_1": {
+          "bbox": [
+            397,
+            458,
+            644,
+            642
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H6",
+          "status": "pending"
+        },
+        "H7_1": {
+          "bbox": [
+            456,
+            11,
+            511,
+            35
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending"
+        },
+        "H7_2": {
+          "bbox": [
+            518,
+            11,
+            580,
+            35
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending"
+        },
+        "H7_3": {
+          "bbox": [
+            586,
+            11,
+            628,
+            35
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending"
+        },
+        "H8_1": {
+          "bbox": [
+            563,
+            345,
+            608,
+            373
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H8",
+          "status": "pending"
+        },
+        "H9_1": {
+          "bbox": [
+            960,
+            214,
+            1281,
+            248
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H9",
+          "status": "pending"
+        },
+        "H10_1": {
+          "bbox": [
+            1559,
+            345,
+            1606,
+            371
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending"
+        },
+        "H10_2": {
+          "bbox": [
+            1612,
+            348,
+            1734,
+            372
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending"
+        },
+        "H11_1": {
+          "bbox": [
+            1763,
+            279,
+            1803,
+            322
+          ],
+          "g_icon_name": "List Icon",
+          "g_brief": "Displays items in a list view",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending"
+        },
+        "H11_2": {
+          "bbox": [
+            1810,
+            279,
+            1853,
+            322
+          ],
+          "g_icon_name": "Grid Icon",
+          "g_brief": "Displays items in a grid view",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending"
+        },
+        "H12_1": {
+          "bbox": [
+            1765,
+            3,
+            1795,
+            43
+          ],
+          "g_icon_name": "Minimize Icon",
+          "g_brief": "Minimizes a window",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H12",
+          "status": "pending"
+        },
+        "H13_1": {
+          "bbox": [
+            1822,
+            7,
+            1853,
+            41
+          ],
+          "g_icon_name": "Restore Down Icon",
+          "g_brief": "Restores a maximized window to its previous size",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H13",
+          "status": "pending"
+        },
+        "V0_1": {
+          "bbox": [
+            1876,
+            5,
+            1916,
+            42
+          ],
+          "g_icon_name": "X Icon",
+          "g_brief": "Closes the current window or application",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V0_2": {
+          "bbox": [
+            1860,
+            56,
+            1910,
+            118
+          ],
+          "g_icon_name": "Magnifying Glass Icon",
+          "g_brief": "Searches for something",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "status": "pending"
+        },
+        "V1_1": {
+          "bbox": [
+            26,
+            165,
+            283,
+            283
+          ],
+          "g_icon_name": "New file Open",
+          "g_brief": "Opens options to start new or open an existing file",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "status": "pending"
+        },
+        "V1_2": {
+          "bbox": [
+            27,
+            303,
+            282,
+            346
+          ],
+          "g_icon_name": "Home",
+          "g_brief": "Navigates to the home screen or main menu",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "status": "pending"
+        },
+        "V2_1": {
+          "bbox": [
+            387,
+            708,
+            492,
+            734
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V2",
+          "status": "pending"
+        },
+        "V2_2": {
+          "bbox": [
+            385,
+            731,
+            483,
+            758
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V2",
+          "status": "pending"
+        }
+      }
+    }
+  },
+  "edges": [],
+  "last_updated": "2025-06-21T18:11:34.317296",
+  "total_states": 1,
+  "exploration_stats": {
+    "pending_nodes": 33,
+    "explored_nodes": 0,
+    "non_interactive_nodes": 0,
+    "total_nodes": 33
+  }
+}

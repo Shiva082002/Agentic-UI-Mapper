@@ -1,0 +1,2877 @@
+{
+  "app_name": "notepad",
+  "loaded": false,
+  "creation_timestamp": "2025-06-12T12:06:58.510857",
+  "navigation_tree": {},
+  "states": {
+    "root": {
+      "id": "root",
+      "parent": null,
+      "trigger_node": null,
+      "trigger_element": "initial_state",
+      "breadcrumb": "root",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\S001.png",
+      "creation_timestamp": "2025-06-12T12:07:19.028529",
+      "analysis_time": 0,
+      "total_elements": 26,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            0,
+            1011,
+            7,
+            1040
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "status": "pending"
+        },
+        "H1_1": {
+          "bbox": [
+            8,
+            42,
+            52,
+            69
+          ],
+          "g_icon_name": "File",
+          "g_brief": "Opens the file menu with document operations",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H1_2": {
+          "bbox": [
+            61,
+            44,
+            101,
+            70
+          ],
+          "g_icon_name": "Edit",
+          "g_brief": "Opens the edit menu",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H1_3": {
+          "bbox": [
+            112,
+            44,
+            157,
+            72
+          ],
+          "g_icon_name": "View",
+          "g_brief": "Opens the view menu",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H2_1": {
+          "bbox": [
+            11,
+            7,
+            49,
+            40
+          ],
+          "g_icon_name": "List icon",
+          "g_brief": "Represents a document or file",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H2",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H2_2": {
+          "bbox": [
+            52,
+            8,
+            115,
+            40
+          ],
+          "g_icon_name": "Untitled",
+          "g_brief": "Name of the current file",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H2",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H3_1": {
+          "bbox": [
+            18,
+            1012,
+            100,
+            1038
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H3_2": {
+          "bbox": [
+            96,
+            1009,
+            313,
+            1039
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H3_3": {
+          "bbox": [
+            312,
+            1014,
+            377,
+            1040
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "status": "pending"
+        },
+        "H4_1": {
+          "bbox": [
+            259,
+            12,
+            281,
+            36
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "status": "pending"
+        },
+        "H4_2": {
+          "bbox": [
+            301,
+            13,
+            327,
+            37
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "status": "pending"
+        },
+        "H5_1": {
+          "bbox": [
+            852,
+            42,
+            898,
+            68
+          ],
+          "g_icon_name": "H1",
+          "g_brief": "Dropdown to select a heading level",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H5",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H6_1": {
+          "bbox": [
+            852,
+            43,
+            1084,
+            70
+          ],
+          "g_icon_name": "H1",
+          "g_brief": "Dropdown to select a heading level",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H6",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H7_1": {
+          "bbox": [
+            961,
+            38,
+            990,
+            72
+          ],
+          "g_icon_name": "B",
+          "g_brief": "Toggles bold text formatting",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H7_2": {
+          "bbox": [
+            992,
+            38,
+            1022,
+            72
+          ],
+          "g_icon_name": "I",
+          "g_brief": "Toggles italic text formatting",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H7_3": {
+          "bbox": [
+            1023,
+            38,
+            1056,
+            72
+          ],
+          "g_icon_name": "Link Icon",
+          "g_brief": "Inserts or edits a hyperlink",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H7_4": {
+          "bbox": [
+            1056,
+            38,
+            1083,
+            72
+          ],
+          "g_icon_name": "Aa",
+          "g_brief": "Formats the item in a specific text type",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H8_1": {
+          "bbox": [
+            1555,
+            1014,
+            1594,
+            1042
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H8",
+          "status": "pending"
+        },
+        "H9_1": {
+          "bbox": [
+            1616,
+            1010,
+            1785,
+            1040
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H9",
+          "status": "pending"
+        },
+        "H9_2": {
+          "bbox": [
+            1791,
+            1014,
+            1836,
+            1042
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H9",
+          "status": "pending"
+        },
+        "H10_1": {
+          "bbox": [
+            1789,
+            40,
+            1850,
+            67
+          ],
+          "g_icon_name": "Color Palette",
+          "g_brief": "Allows to change the color",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H10_2": {
+          "bbox": [
+            1858,
+            39,
+            1886,
+            70
+          ],
+          "g_icon_name": "Person Icon",
+          "g_brief": "Opens user account settings",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H10_3": {
+          "bbox": [
+            1891,
+            39,
+            1922,
+            70
+          ],
+          "g_icon_name": "Gear Icon",
+          "g_brief": "Opens application settings",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "status": "pending",
+          "autocaptioning": "done"
+        },
+        "H11_1": {
+          "bbox": [
+            1793,
+            7,
+            1830,
+            36
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending"
+        },
+        "H11_2": {
+          "bbox": [
+            1840,
+            7,
+            1875,
+            36
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending"
+        },
+        "H11_3": {
+          "bbox": [
+            1886,
+            7,
+            1918,
+            37
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "status": "pending"
+        }
+      }
+    },
+    "root_file": {
+      "id": "root_file",
+      "parent": "root",
+      "trigger_node": "root::H1_1",
+      "trigger_element": "File",
+      "breadcrumb": "root>file",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H1_1.png",
+      "creation_timestamp": "2025-06-12T12:13:45.548062",
+      "analysis_time": 11.265095949172974,
+      "total_elements": 12,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            24,
+            206,
+            230,
+            238
+          ],
+          "g_icon_name": "Recent >",
+          "g_brief": "Opens the recent files or documents (expandable)",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "menu"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\H0_1_None_Recent___root_file.png",
+          "autocaptioning": "done"
+        },
+        "V0_1": {
+          "bbox": [
+            22,
+            83,
+            230,
+            108
+          ],
+          "g_icon_name": "New tab",
+          "g_brief": "Opens a new browser tab",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V0_1_None_New_tab_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V0_2": {
+          "bbox": [
+            22,
+            108,
+            230,
+            140
+          ],
+          "g_icon_name": "New window",
+          "g_brief": "Opens a new browser window",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V0_2_None_New_window_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V0_3": {
+          "bbox": [
+            22,
+            140,
+            230,
+            175
+          ],
+          "g_icon_name": "New Markdown tab",
+          "g_brief": "Opens a new Markdown tab",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V0_3_None_New_Markdown_tab_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V0_4": {
+          "bbox": [
+            22,
+            175,
+            230,
+            207
+          ],
+          "g_icon_name": "Open",
+          "g_brief": "Opens a file",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V0_4_None_Open_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_1": {
+          "bbox": [
+            22,
+            240,
+            230,
+            273
+          ],
+          "g_icon_name": "Save",
+          "g_brief": "Saves the current file",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_1_None_Save_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_2": {
+          "bbox": [
+            22,
+            272,
+            230,
+            307
+          ],
+          "g_icon_name": "Save as",
+          "g_brief": "Saves the current file with a new name or location",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_2_None_Save_as_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_3": {
+          "bbox": [
+            22,
+            306,
+            230,
+            339
+          ],
+          "g_icon_name": "Save all",
+          "g_brief": "Saves all open files",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_3_None_Save_all_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_4": {
+          "bbox": [
+            22,
+            340,
+            230,
+            375
+          ],
+          "g_icon_name": "Page setup",
+          "g_brief": "Opens the page setup dialog",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "menu"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_4_None_Page_setup_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_5": {
+          "bbox": [
+            22,
+            374,
+            230,
+            409
+          ],
+          "g_icon_name": "Print",
+          "g_brief": "Prints the current file",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_5_None_Print_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_6": {
+          "bbox": [
+            22,
+            408,
+            230,
+            444
+          ],
+          "g_icon_name": "Close tab",
+          "g_brief": "Closes the current tab",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_6_None_Close_tab_root_file.png",
+          "autocaptioning": "done"
+        },
+        "V1_7": {
+          "bbox": [
+            22,
+            446,
+            230,
+            469
+          ],
+          "g_icon_name": "Close window",
+          "g_brief": "Closes the current window",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\File\\V1_7_None_Close_window_root_file.png",
+          "autocaptioning": "done"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            75,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1749710675.6916516,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_edit": {
+      "id": "root_edit",
+      "parent": "root",
+      "trigger_node": "root::H1_2",
+      "trigger_element": "Edit",
+      "breadcrumb": "root>edit",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H1_2.png",
+      "creation_timestamp": "2025-06-12T12:14:57.241297",
+      "analysis_time": 10.851078748703003,
+      "total_elements": 15,
+      "nodes": {
+        "V0_1": {
+          "bbox": [
+            71,
+            83,
+            279,
+            111
+          ],
+          "g_icon_name": "Undo",
+          "g_brief": "Reverts the last action performed",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_1_None_Undo_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_2": {
+          "bbox": [
+            71,
+            111,
+            279,
+            147
+          ],
+          "g_icon_name": "Cut",
+          "g_brief": "Removes the selected content and places it on the clipboard",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_2_None_Cut_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_3": {
+          "bbox": [
+            71,
+            146,
+            279,
+            180
+          ],
+          "g_icon_name": "Copy",
+          "g_brief": "Copies the selected content to the clipboard",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_3_None_Copy_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_4": {
+          "bbox": [
+            71,
+            179,
+            279,
+            212
+          ],
+          "g_icon_name": "Paste",
+          "g_brief": "Inserts the content from the clipboard",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_4_None_Paste_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_5": {
+          "bbox": [
+            71,
+            212,
+            279,
+            245
+          ],
+          "g_icon_name": "Delete",
+          "g_brief": "Removes the selected content",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_5_None_Delete_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_6": {
+          "bbox": [
+            71,
+            245,
+            279,
+            282
+          ],
+          "g_icon_name": "Clear formatting",
+          "g_brief": "Removes all formatting from the selected text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_6_None_Clear_formatting_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_7": {
+          "bbox": [
+            71,
+            281,
+            279,
+            314
+          ],
+          "g_icon_name": "Search with Bing",
+          "g_brief": "Searches the selected text using the Bing search engine",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_7_None_Search_with_Bing_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_8": {
+          "bbox": [
+            71,
+            314,
+            279,
+            351
+          ],
+          "g_icon_name": "Find",
+          "g_brief": "Opens the find dialog box to search for text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "menu"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_8_None_Find_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_9": {
+          "bbox": [
+            71,
+            350,
+            279,
+            384
+          ],
+          "g_icon_name": "Find next",
+          "g_brief": "Finds the next instance of the searched text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_9_None_Find_next_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_10": {
+          "bbox": [
+            71,
+            382,
+            279,
+            417
+          ],
+          "g_icon_name": "Find previous",
+          "g_brief": "Finds the previous instance of the searched text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_10_None_Find_previous_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_11": {
+          "bbox": [
+            71,
+            416,
+            279,
+            450
+          ],
+          "g_icon_name": "Replace",
+          "g_brief": "Opens the replace dialog box to replace text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "menu"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_11_None_Replace_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_12": {
+          "bbox": [
+            71,
+            449,
+            279,
+            482
+          ],
+          "g_icon_name": "Go to",
+          "g_brief": "Go to specific page",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_12_None_Go_to_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_13": {
+          "bbox": [
+            71,
+            481,
+            279,
+            518
+          ],
+          "g_icon_name": "Select all",
+          "g_brief": "Selects all content in the document",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_13_None_Select_all_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_14": {
+          "bbox": [
+            71,
+            517,
+            279,
+            552
+          ],
+          "g_icon_name": "Time/Date",
+          "g_brief": "Inserts the current time and date",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_14_None_Time_Date_root_edit.png",
+          "autocaptioning": "done"
+        },
+        "V0_15": {
+          "bbox": [
+            71,
+            552,
+            279,
+            578
+          ],
+          "g_icon_name": "Font",
+          "g_brief": "Opens the font dialog box",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "menu"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Edit\\V0_15_None_Font_root_edit.png",
+          "autocaptioning": "done"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            75,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1749710757.9876952,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_view": {
+      "id": "root_view",
+      "parent": "root",
+      "trigger_node": "root::H1_3",
+      "trigger_element": "View",
+      "breadcrumb": "root>view",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H1_3.png",
+      "creation_timestamp": "2025-06-12T12:16:17.173205",
+      "analysis_time": 8.422945261001587,
+      "total_elements": 4,
+      "nodes": {
+        "V0_1": {
+          "bbox": [
+            151,
+            82,
+            226,
+            108
+          ],
+          "g_icon_name": "Zoom",
+          "g_brief": "Zooms in or out of the view",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\View\\V0_1_None_Zoom_root_view.png",
+          "autocaptioning": "done"
+        },
+        "V0_2": {
+          "bbox": [
+            151,
+            108,
+            226,
+            140
+          ],
+          "g_icon_name": "Status bar",
+          "g_brief": "Toggles the visibility of the status bar",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\View\\V0_2_None_Status_bar_root_view.png",
+          "autocaptioning": "done"
+        },
+        "V0_3": {
+          "bbox": [
+            151,
+            140,
+            227,
+            173
+          ],
+          "g_icon_name": "Word wrap",
+          "g_brief": "Toggles word wrap on or off",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\View\\V0_3_None_Word_wrap_root_view.png",
+          "autocaptioning": "done"
+        },
+        "V0_4": {
+          "bbox": [
+            151,
+            173,
+            227,
+            196
+          ],
+          "g_icon_name": "Markdown",
+          "g_brief": "Enables or disables markdown formatting",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\View\\V0_4_None_Markdown_root_view.png",
+          "autocaptioning": "done"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            75,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1749710798.5157948,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_h1": {
+      "id": "root_h1",
+      "parent": "root",
+      "trigger_node": "root::H6_1",
+      "trigger_element": "H1",
+      "breadcrumb": "root>h1",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H6_1.png",
+      "creation_timestamp": "2025-06-12T12:18:15.733825",
+      "analysis_time": 5.830745220184326,
+      "total_elements": 1,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            315,
+            1016,
+            398,
+            1036
+          ],
+          "g_icon_name": "Formatted",
+          "g_brief": "Applies a pre-defined style to the selected text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\H1\\H0_1_None_Formatted_root_h1.png",
+          "autocaptioning": "done"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            175,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1749710907.1642792,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_link_icon": {
+      "id": "root_link_icon",
+      "parent": "root",
+      "trigger_node": "root::H7_3",
+      "trigger_element": "Link Icon",
+      "breadcrumb": "root>link>icon",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H7_3.png",
+      "creation_timestamp": "2025-06-12T12:19:40.637929",
+      "analysis_time": 19.27358102798462,
+      "total_elements": 32,
+      "nodes": {
+        "H1_1": {
+          "bbox": [
+            11,
+            7,
+            48,
+            40
+          ],
+          "g_icon_name": "Document Icon",
+          "g_brief": "Represents the current document",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H1_1_None_Document_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H2_2": {
+          "bbox": [
+            102,
+            1015,
+            182,
+            1041
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H2",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H2_2_None_unanalyzed_root_link_icon.png"
+        },
+        "H3_1": {
+          "bbox": [
+            261,
+            14,
+            283,
+            35
+          ],
+          "g_icon_name": "X",
+          "g_brief": "Closes the current window or dialog",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H3_1_None_X_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H3_2": {
+          "bbox": [
+            295,
+            8,
+            333,
+            40
+          ],
+          "g_icon_name": "+",
+          "g_brief": "Adds a new item or element",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H3_2_None_+_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H4_1": {
+          "bbox": [
+            312,
+            1014,
+            402,
+            1041
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H4_1_None_unanalyzed_root_link_icon.png"
+        },
+        "H5_1": {
+          "bbox": [
+            821,
+            460,
+            1113,
+            497
+          ],
+          "g_icon_name": "Text for the link (optional)",
+          "g_brief": "Input box for text link",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H5",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H5_1_None_Text_for_the_link_optional_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H6_1": {
+          "bbox": [
+            823,
+            531,
+            1111,
+            568
+          ],
+          "g_icon_name": "Link to an existing webpage",
+          "g_brief": "Input box for webpage link",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H6",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H6_1_None_Link_to_an_existing_webpage_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H7_1": {
+          "bbox": [
+            824,
+            505,
+            884,
+            530
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H7",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H7_1_None_unanalyzed_root_link_icon.png"
+        },
+        "H8_1": {
+          "bbox": [
+            827,
+            612,
+            965,
+            648
+          ],
+          "g_icon_name": "Insert",
+          "g_brief": "Inserts the link",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H8",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H8_1_None_Insert_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H8_2": {
+          "bbox": [
+            971,
+            612,
+            1110,
+            650
+          ],
+          "g_icon_name": "Cancel",
+          "g_brief": "Cancels the link insertion",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H8",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H8_2_None_Cancel_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H9_1": {
+          "bbox": [
+            854,
+            42,
+            1084,
+            69
+          ],
+          "g_icon_name": "Aa Icon",
+          "g_brief": "Removes existing hyperlinks",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H9",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H9_1_None_Aa_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H10_2": {
+          "bbox": [
+            908,
+            40,
+            952,
+            67
+          ],
+          "g_icon_name": "List Icon",
+          "g_brief": "Creates a list",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H10",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H10_2_None_List_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H11_1": {
+          "bbox": [
+            991,
+            39,
+            1023,
+            72
+          ],
+          "g_icon_name": "I Icon",
+          "g_brief": "Italic formatting",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H11_1_None_I_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H11_3": {
+          "bbox": [
+            1056,
+            39,
+            1085,
+            72
+          ],
+          "g_icon_name": "Ab Icon",
+          "g_brief": "Clear Formatting",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H11",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H11_3_None_Ab_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H12_1": {
+          "bbox": [
+            1546,
+            1011,
+            1618,
+            1040
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H12",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H12_1_None_unanalyzed_root_link_icon.png"
+        },
+        "H12_2": {
+          "bbox": [
+            1624,
+            1015,
+            1723,
+            1041
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H12",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H12_2_None_unanalyzed_root_link_icon.png"
+        },
+        "H12_3": {
+          "bbox": [
+            1731,
+            1010,
+            1929,
+            1041
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H12",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H12_3_None_unanalyzed_root_link_icon.png"
+        },
+        "H13_1": {
+          "bbox": [
+            1797,
+            8,
+            1828,
+            35
+          ],
+          "g_icon_name": "Minus Icon",
+          "g_brief": "Decreases value or removes",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H13",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H13_1_None_Minus_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H13_2": {
+          "bbox": [
+            1844,
+            8,
+            1869,
+            36
+          ],
+          "g_icon_name": "Frame Icon",
+          "g_brief": "Applies border/frame",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H13",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H13_2_None_Frame_Icon_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "H14_1": {
+          "bbox": [
+            1798,
+            39,
+            1847,
+            69
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H14",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H14_1_None_unanalyzed_root_link_icon.png"
+        },
+        "H14_2": {
+          "bbox": [
+            1857,
+            43,
+            1885,
+            69
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H14",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H14_2_None_unanalyzed_root_link_icon.png"
+        },
+        "H14_3": {
+          "bbox": [
+            1893,
+            42,
+            1920,
+            70
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H14",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H14_3_None_unanalyzed_root_link_icon.png"
+        },
+        "H15_1": {
+          "bbox": [
+            1890,
+            7,
+            1915,
+            39
+          ],
+          "g_icon_name": "X",
+          "g_brief": "Delete current element",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H15",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\H15_1_None_X_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "V0_1": {
+          "bbox": [
+            824,
+            398,
+            872,
+            426
+          ],
+          "g_icon_name": "Link",
+          "g_brief": "Text button to insert link",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\V0_1_None_Link_root_link_icon.png",
+          "autocaptioning": "done"
+        },
+        "V0_2": {
+          "bbox": [
+            824,
+            433,
+            906,
+            459
+          ],
+          "g_icon_name": "Display text",
+          "g_brief": "Text to be shown for the link",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Link_Icon\\V0_2_None_Display_text_root_link_icon.png",
+          "autocaptioning": "done"
+        }
+      }
+    },
+    "root_color_palette": {
+      "id": "root_color_palette",
+      "parent": "root",
+      "trigger_node": "root::H10_1",
+      "trigger_element": "Color Palette",
+      "breadcrumb": "root>color>palette",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H10_1.png",
+      "creation_timestamp": "2025-06-12T12:22:17.979971",
+      "analysis_time": 9.740081548690796,
+      "total_elements": 9,
+      "nodes": {
+        "V0_1": {
+          "bbox": [
+            1708,
+            86,
+            1916,
+            114
+          ],
+          "g_icon_name": "Write",
+          "g_brief": "Starts the writing process or opens a text editor",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_1_None_Write_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V0_2": {
+          "bbox": [
+            1708,
+            114,
+            1916,
+            147
+          ],
+          "g_icon_name": "Rewrite",
+          "g_brief": "Rewrites the current text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_2_None_Rewrite_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V0_3": {
+          "bbox": [
+            1708,
+            146,
+            1916,
+            180
+          ],
+          "g_icon_name": "Summarize",
+          "g_brief": "Summarizes the current text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_3_None_Summarize_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V0_4": {
+          "bbox": [
+            1708,
+            179,
+            1916,
+            213
+          ],
+          "g_icon_name": "Make shorter",
+          "g_brief": "Shortens the current text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_4_None_Make_shorter_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V0_5": {
+          "bbox": [
+            1708,
+            212,
+            1916,
+            245
+          ],
+          "g_icon_name": "Make longer",
+          "g_brief": "Lengthens the current text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_5_None_Make_longer_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V0_6": {
+          "bbox": [
+            1708,
+            244,
+            1916,
+            278
+          ],
+          "g_icon_name": "Change tone",
+          "g_brief": "Changes the tone of the text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_6_None_Change_tone_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V0_7": {
+          "bbox": [
+            1708,
+            277,
+            1916,
+            304
+          ],
+          "g_icon_name": "Change format",
+          "g_brief": "Changes the format of the text",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V0_7_None_Change_format_root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V1_1": {
+          "bbox": [
+            1898,
+            251,
+            1912,
+            268
+          ],
+          "g_icon_name": ">",
+          "g_brief": "Navigates to the next page or option",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V1_1_None___root_color_palette.png",
+          "autocaptioning": "done"
+        },
+        "V1_2": {
+          "bbox": [
+            1898,
+            283,
+            1913,
+            300
+          ],
+          "g_icon_name": ">",
+          "g_brief": "Navigates to the next page or option",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Color_Palette\\V1_2_None___root_color_palette.png",
+          "autocaptioning": "done"
+        }
+      },
+      "exit_strategies": {
+        "root": {
+          "method": "click_coordinates",
+          "coordinates": [
+            75,
+            35
+          ],
+          "learned_from": "automatic_discovery",
+          "success_rate": 1.0,
+          "last_used": 1749711177.0677273,
+          "discovery_method": "safe_area_click"
+        }
+      }
+    },
+    "root_person_icon": {
+      "id": "root_person_icon",
+      "parent": "root",
+      "trigger_node": "root::H10_2",
+      "trigger_element": "Person Icon",
+      "breadcrumb": "root>person>icon",
+      "image": "D:\\project\\mapper\\code\\apps\\notepad\\screenshots\\diffs\\root_to_processing_via_root__H10_2.png",
+      "creation_timestamp": "2025-06-12T12:23:27.168073",
+      "analysis_time": 19.031795978546143,
+      "total_elements": 12,
+      "nodes": {
+        "H0_1": {
+          "bbox": [
+            749,
+            257,
+            790,
+            275
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\H0_1_None_unanalyzed_root_person_icon.png"
+        },
+        "H1_1": {
+          "bbox": [
+            758,
+            491,
+            800,
+            533
+          ],
+          "g_icon_name": "Microsoft Logo",
+          "g_brief": "Represents a logged in Microsoft account",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "icon",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\H1_1_None_Microsoft_Logo_root_person_icon.png",
+          "autocaptioning": "done"
+        },
+        "H2_1": {
+          "bbox": [
+            762,
+            350,
+            871,
+            368
+          ],
+          "g_icon_name": "Use this account",
+          "g_brief": "Selects the current Microsoft account for login",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H2",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\H2_1_None_Use_this_account_root_person_icon.png",
+          "autocaptioning": "done"
+        },
+        "H3_1": {
+          "bbox": [
+            762,
+            459,
+            914,
+            476
+          ],
+          "g_icon_name": "Use a different account",
+          "g_brief": "Allows logging in using a different Microsoft account",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H3",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\H3_1_None_Use_a_different_account_root_person_icon.png",
+          "autocaptioning": "done"
+        },
+        "H4_1": {
+          "bbox": [
+            965,
+            707,
+            1173,
+            742
+          ],
+          "g_icon_name": "Continue",
+          "g_brief": "Proceeds to the next step of the login process",
+          "g_enabled": false,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H4",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\H4_1_None_Continue_root_person_icon.png",
+          "autocaptioning": "done"
+        },
+        "H5_1": {
+          "bbox": [
+            1159,
+            253,
+            1187,
+            280
+          ],
+          "g_icon_name": "X",
+          "g_brief": "Closes the login window or dialog",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "H5",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\H5_1_None_X_root_person_icon.png",
+          "autocaptioning": "done"
+        },
+        "V0_1": {
+          "bbox": [
+            745,
+            270,
+            1198,
+            371
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\V0_1_None_unanalyzed_root_person_icon.png"
+        },
+        "V0_2": {
+          "bbox": [
+            740,
+            372,
+            1194,
+            436
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V0",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\V0_2_None_unanalyzed_root_person_icon.png"
+        },
+        "V1_1": {
+          "bbox": [
+            805,
+            490,
+            924,
+            512
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\V1_1_None_unanalyzed_root_person_icon.png"
+        },
+        "V1_2": {
+          "bbox": [
+            806,
+            514,
+            949,
+            531
+          ],
+          "g_icon_name": "unanalyzed",
+          "g_brief": "Not analyzed by Gemini",
+          "g_enabled": true,
+          "g_interactive": true,
+          "g_type": "icon",
+          "explore": false,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V1",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\V1_2_None_unanalyzed_root_person_icon.png"
+        },
+        "V2_1": {
+          "bbox": [
+            806,
+            557,
+            960,
+            574
+          ],
+          "g_icon_name": "Work or school account",
+          "g_brief": "Indicates a login using a work or school-managed Microsoft account",
+          "g_enabled": true,
+          "g_interactive": false,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V2",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\V2_1_None_Work_or_school_account_root_person_icon.png",
+          "autocaptioning": "done"
+        },
+        "V2_2": {
+          "bbox": [
+            805,
+            576,
+            997,
+            593
+          ],
+          "g_icon_name": "Assigned by your organization",
+          "g_brief": "Indicates that the current account is managed by an organization",
+          "g_enabled": false,
+          "g_interactive": false,
+          "g_type": "text",
+          "explore": true,
+          "m_id": null,
+          "y_id": null,
+          "o_id": null,
+          "type": "icon",
+          "source": "unknown",
+          "group": "V2",
+          "interactivity": {
+            "click_result": null,
+            "type": "unknown"
+          },
+          "status": "pending",
+          "crop_path": "crops\\Person_Icon\\V2_2_None_Assigned_by_your_organization_root_person_icon.png",
+          "autocaptioning": "done"
+        }
+      }
+    }
+  },
+  "edges": [
+    {
+      "from": "root",
+      "to": "root_file",
+      "action": "click:H1_1",
+      "element_name": "File",
+      "navigation": "root → root_file",
+      "timestamp": "2025-06-12T12:13:45.551061"
+    },
+    {
+      "from": "root",
+      "to": "root_edit",
+      "action": "click:H1_2",
+      "element_name": "Edit",
+      "navigation": "root → root_edit",
+      "timestamp": "2025-06-12T12:14:57.244290"
+    },
+    {
+      "from": "root",
+      "to": "root_view",
+      "action": "click:H1_3",
+      "element_name": "View",
+      "navigation": "root → root_view",
+      "timestamp": "2025-06-12T12:16:17.176202"
+    },
+    {
+      "from": "root",
+      "to": "root_h1",
+      "action": "click:H5_1",
+      "element_name": "H1",
+      "navigation": "root → root_h1",
+      "timestamp": "2025-06-12T12:17:41.537041"
+    },
+    {
+      "from": "root",
+      "to": "root_h1",
+      "action": "click:H6_1",
+      "element_name": "H1",
+      "navigation": "root → root_h1",
+      "timestamp": "2025-06-12T12:18:15.735850"
+    },
+    {
+      "from": "root",
+      "to": "root_link_icon",
+      "action": "click:H7_3",
+      "element_name": "Link Icon",
+      "navigation": "root → root_link_icon",
+      "timestamp": "2025-06-12T12:19:40.664930"
+    },
+    {
+      "from": "root",
+      "to": "root_color_palette",
+      "action": "click:H10_1",
+      "element_name": "Color Palette",
+      "navigation": "root → root_color_palette",
+      "timestamp": "2025-06-12T12:22:17.984365"
+    },
+    {
+      "from": "root",
+      "to": "root_person_icon",
+      "action": "click:H10_2",
+      "element_name": "Person Icon",
+      "navigation": "root → root_person_icon",
+      "timestamp": "2025-06-12T12:23:27.173125"
+    }
+  ],
+  "last_updated": "2025-06-12T12:24:58.386326",
+  "total_states": 8,
+  "exploration_stats": {
+    "pending_nodes": 103,
+    "explored_nodes": 0,
+    "non_interactive_nodes": 1,
+    "total_nodes": 104
+  }
+}

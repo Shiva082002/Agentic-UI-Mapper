@@ -1,0 +1,12 @@
+{
+  "app_name": "winword",
+  "created_timestamp": "2025-06-16T23:53:54Z",
+  "fdom_creator_version": "1.0.0",
+  "exploration_status": "initialized",
+  "folder_structure": {
+    "screenshots": "screenshots",
+    "crops": "crops",
+    "diffs": "screenshots/diffs",
+    "templates": "templates"
+  }
+}
